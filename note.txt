@@ -1,0 +1,5 @@
+六角學院課程練習 API 申請
+https://vue3-course-api.hexschool.io/
+帳號:bernie7135@gmail.com
+密碼:b11027807
+apiPath : bernie
